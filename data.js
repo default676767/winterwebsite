@@ -181,6 +181,348 @@ window.WINTER_DATA = {
         { name: 'Darmanitan', dex: 555 },
         { name: 'Conkeldurr', dex: 534 }
       ]
+    },
+    {
+      idx: '06',
+      member: 'Yooh',
+      profile: {
+        joined: 'Nov 10, 2012',
+        rank: 'Member',
+        favShiny: 'Togepi',
+        region: '',
+        discord: '',
+        discordLabel: ''
+      },
+      cats: ['shiny-dex', 'team'],
+      shinies: [
+        { name: 'Togepi', dex: 175, best: true },
+        { name: 'Krabby', dex: 98 },
+        { name: 'Ditto', dex: 132 },
+        { name: 'Caterpie', dex: 10 },
+        { name: 'Kingler', dex: 99 },
+        { name: 'Politoed', dex: 186 },
+        { name: 'Garchomp', dex: 445 },
+        { name: 'Metapod', dex: 11 },
+        { name: 'Trubbish', dex: 568 },
+        { name: 'Beautifly', dex: 267 },
+        { name: 'Pelipper', dex: 279 },
+        { name: 'Weedle', dex: 13 },
+        { name: 'Wailmer', dex: 320 },
+        { name: 'Wailord', dex: 321 },
+        { name: 'Porygon', dex: 137 },
+        { name: 'Golett', dex: 622 },
+        { name: 'Pidgeot', dex: 18 },
+        { name: 'Budew', dex: 406 },
+        { name: 'Basculin', dex: 665 },
+        { name: 'Bronzong', dex: 437 },
+        { name: 'Parasect', dex: 47 },
+        { name: 'Staryu', dex: 120 },
+        { name: 'Poochyena', dex: 261 },
+        { name: 'Koffing', dex: 109 },
+        { name: 'Meowth', dex: 52 },
+        { name: 'Abra', dex: 63 },
+        { name: 'Bronzong', dex: 437 },
+        { name: 'Bronzong', dex: 437 },
+        { name: 'Kecleon', dex: 352 },
+        { name: 'Oddish', dex: 43 },
+        { name: 'Carvanha', dex: 318 },
+        { name: 'Whismur', dex: 293 },
+        { name: 'Minccino', dex: 572 },
+        { name: 'Pidgey', dex: 16 },
+        { name: 'Girafarig', dex: 203 },
+        { name: 'Bibarel', dex: 400 },
+        { name: 'Darumaka', dex: 554 },
+        { name: 'Swellow', dex: 277 },
+        { name: 'Scraggy', dex: 559 },
+        { name: 'Cubchoo', dex: 613 },
+        { name: 'Delibird', dex: 225 },
+        { name: 'Croagunk', dex: 453 },
+        { name: 'Breloom', dex: 286 },
+        { name: 'Arbok', dex: 24 },
+        { name: 'Pikachu', dex: 25 }
+      ]
+    },
+    {
+      idx: '05',
+      member: 'Ford',
+      profile: {
+        joined: '',
+        rank: 'Member',
+        favShiny: '',
+        region: '',
+        discord: '',
+        discordLabel: ''
+      },
+      cats: ['shiny-dex', 'team'],
+      shinies: [  
+        {"name": "Metagross","dex": 376},
+        {"name": "Bisharp","dex": 625},
+        {"name": "Sceptile","dex": 254},
+  {
+    "name": "Staryu",
+    "dex": 120
+  },
+  {
+    "name": "Smeargle",
+    "dex": 235
+  },
+  {
+    "name": "Crawdaunt",
+    "dex": 342
+  },
+  {
+    "name": "Hydreigon",
+    "dex": 635
+  },
+  {
+    "name": "Darmanitan",
+    "dex": 555
+  },
+  {
+    "name": "Krookodile",
+    "dex": 553
+  },
+  {
+    "name": "Toxicroak",
+    "dex": 454
+  },
+  {
+    "name": "Weavile",
+    "dex": 461
+  },
+  {
+    "name": "Mienshao",
+    "dex": 620
+  },
+  {
+    "name": "Poliwrath",
+    "dex": 62
+  },
+  {
+    "name": "Ninetales",
+    "dex": 38
+  },
+  {
+    "name": "Scrafty",
+    "dex": 560
+  },
+  {
+    "name": "Banette",
+    "dex": 354
+  },
+  {
+    "name": "Gothitelle",
+    "dex": 576
+  },
+  {
+    "name": "Weezing",
+    "dex": 110
+  },
+  {
+    "name": "Chandelure",
+    "dex": 609
+  },
+  {
+    "name": "Whirlipede",
+    "dex": 544
+  },
+  {
+    "name": "Scolipede",
+    "dex": 545
+  },
+  {
+    "name": "Beautifly",
+    "dex": 267
+  },
+  {
+    "name": "Poochyena",
+    "dex": 261
+  },
+  {
+    "name": "Poochyena",
+    "dex": 261
+  },
+  {
+    "name": "Kricketune",
+    "dex": 402
+  },
+  {
+    "name": "Bellossom",
+    "dex": 182
+  },
+  {
+    "name": "Steelix",
+    "dex": 208
+  },
+  {
+    "name": "Graveler",
+    "dex": 75
+  },
+  {
+    "name": "Golem",
+    "dex": 76
+  },
+  {
+    "name": "Rapidash",
+    "dex": 78
+  },
+  {
+    "name": "Rhyperior",
+    "dex": 464
+  },
+  {
+    "name": "Mankey",
+    "dex": 56
+  },
+  {
+    "name": "Wingull",
+    "dex": 278
+  },
+  {
+    "name": "Tentacool",
+    "dex": 72
+  },
+  {
+    "name": "Octillery",
+    "dex": 224
+  },
+  {
+    "name": "Slakoth",
+    "dex": 287
+  },
+  {
+    "name": "Meowth",
+    "dex": 52
+  },
+  {
+    "name": "Magikarp",
+    "dex": 129
+  },
+  {
+    "name": "Horsea",
+    "dex": 116
+  },
+  {
+    "name": "Gurdurr",
+    "dex": 533
+  },
+  {
+    "name": "Xatu",
+    "dex": 178
+  },
+  {
+    "name": "Blitzle",
+    "dex": 522
+  },
+  {
+    "name": "Voltorb",
+    "dex": 100
+  },
+  {
+    "name": "Pansear",
+    "dex": 513
+  },
+  {
+    "name": "Ditto",
+    "dex": 132
+  },
+  {
+    "name": "Escavalier",
+    "dex": 589
+  },
+  {
+    "name": "Accelgor",
+    "dex": 617
+  },
+  {
+    "name": "Ludicolo",
+    "dex": 272
+  },
+  {
+    "name": "Pikachu",
+    "dex": 25
+  },
+  {
+    "name": "Masquerain",
+    "dex": 284
+  },
+  {
+    "name": "Vanilluxe",
+    "dex": 584
+  },
+
+{ "name": "Marill", "dex": 183 },
+        { "name": "Smeargle", "dex": 235 }
+      ]
+    },
+    {
+      idx: '07',
+      member: 'Soaked',
+      profile: {
+        joined: '',
+        rank: 'Member',
+        favShiny: '',
+        region: '',
+        discord: '',
+        discordLabel: ''
+      },
+      cats: ['shiny-dex', 'team'],
+      shinies: [
+        { name: 'Psyduck', dex: 54 },
+        { name: 'Tentacruel', dex: 73 },
+        { name: 'Tentacool', dex: 72 },
+        { name: 'Camerupt', dex: 323 },
+        { name: 'Ponyta', dex: 77 },
+        { name: 'Floatzel', dex: 419 },
+        { name: 'Gyarados', dex: 130 },
+        { name: 'Sneasel', dex: 215 },
+        { name: 'Teddiursa', dex: 216 },
+        { name: 'Vulpix', dex: 37 },
+        { name: 'Houndour', dex: 228 },
+        { name: 'Luxio', dex: 404 },
+        { name: 'Duskull', dex: 355 },
+        { name: 'Amoonguss', dex: 591 },
+        { name: 'Misdreavus', dex: 200 },
+        { name: 'Flaaffy', dex: 180 },
+        { name: 'Tauros', dex: 128 },
+        { name: 'Parasect', dex: 47 },
+        { name: 'Banette', dex: 354 },
+        { name: 'Arbok', dex: 24 },
+        { name: 'Cubchoo', dex: 613 },
+        { name: 'Crustle', dex: 558 },
+        { name: 'Slowbro', dex: 80 },
+        { name: 'Delibird', dex: 225 },
+        { name: 'Hoothoot', dex: 163 },
+        { name: 'Donphan', dex: 232 },
+        { name: 'Rhydon', dex: 112 },
+        { name: 'Cacnea', dex: 331 },
+        { name: 'Magby', dex: 240 },
+        { name: 'Darumaka', dex: 554 },
+        { name: 'Growlithe', dex: 58 },
+        { name: 'Seviper', dex: 336 },
+        { name: 'Scraggy', dex: 559 },
+        { name: 'Girafarig', dex: 203 },
+        { name: 'Ariados', dex: 168 },
+        { name: 'Jynx', dex: 124 },
+        { name: 'Cubchoo', dex: 613 },
+        { name: 'Shelmet', dex: 616 },
+        { name: 'Stunfisk', dex: 618 },
+        { name: 'Magneton', dex: 82 },
+        { name: 'Palpitoad', dex: 536 },
+        { name: 'Karrablast', dex: 588 },
+        { name: 'Spiritomb', dex: 442 },
+        { name: 'Pikachu', dex: 25 },
+        { name: 'Beedrill', dex: 15 },
+        { name: 'Mantine', dex: 226 },
+        { name: 'Aron', dex: 304 },
+        { name: 'Frillish', dex: 592 },
+        { name: 'Hippowdon', dex: 450 },
+        { name: 'Onix', dex: 95 },
+        { name: 'Rapidash', dex: 78 },
+        { name: 'Horsea', dex: 116 },
+        { name: 'Duskull', dex: 355 },
+        { name: 'Baltoy', dex: 343 }
+      ]
     }
   ]
 };
